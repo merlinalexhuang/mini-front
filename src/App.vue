@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 
-<template>Hello World</template>
+<template>Hello</template>
 
 <style scoped>
 .logo {
